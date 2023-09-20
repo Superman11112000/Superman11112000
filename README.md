@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Superman11112000
+- 👋 Hi, I’m Ammar
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on Machine Learning & Artificial Intelligence
